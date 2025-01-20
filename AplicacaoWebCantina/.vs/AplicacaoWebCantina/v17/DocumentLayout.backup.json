@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78B53414-EDB8-4A33-89DF-8B5C687875B7}|AplicacaoWebCantina\\AplicacaoWebCantina.csproj|c:\\users\\pedro.neto10\\source\\repos\\aplicacaowebcantina\\aplicacaowebcantina\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78B53414-EDB8-4A33-89DF-8B5C687875B7}|AplicacaoWebCantina\\AplicacaoWebCantina.csproj|solutionrelative:aplicacaowebcantina\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B53414-EDB8-4A33-89DF-8B5C687875B7}|AplicacaoWebCantina\\AplicacaoWebCantina.csproj|c:\\users\\pedro.neto10\\source\\repos\\aplicacaowebcantina\\aplicacaowebcantina\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78B53414-EDB8-4A33-89DF-8B5C687875B7}|AplicacaoWebCantina\\AplicacaoWebCantina.csproj|solutionrelative:aplicacaowebcantina\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B53414-EDB8-4A33-89DF-8B5C687875B7}|AplicacaoWebCantina\\AplicacaoWebCantina.csproj|c:\\users\\pedro.neto10\\source\\repos\\aplicacaowebcantina\\aplicacaowebcantina\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78B53414-EDB8-4A33-89DF-8B5C687875B7}|AplicacaoWebCantina\\AplicacaoWebCantina.csproj|solutionrelative:aplicacaowebcantina\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78B53414-EDB8-4A33-89DF-8B5C687875B7}|AplicacaoWebCantina\\AplicacaoWebCantina.csproj|c:\\users\\pedro.neto10\\source\\repos\\aplicacaowebcantina\\aplicacaowebcantina\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78B53414-EDB8-4A33-89DF-8B5C687875B7}|AplicacaoWebCantina\\AplicacaoWebCantina.csproj|solutionrelative:aplicacaowebcantina\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -86,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,46 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "AplicacaoWebCantina\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "AplicacaoWebCantina\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T22:53:39.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "AplicacaoWebCantina\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "AplicacaoWebCantina\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T22:53:39.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "AplicacaoWebCantina\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "AplicacaoWebCantina\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-20T22:53:38.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "PedidosController1.cs",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Controllers\\PedidosController1.cs",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Controllers\\PedidosController1.cs",
@@ -146,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Controllers\\ClientesController.cs",
@@ -159,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "Produtos.cs",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Models\\Produto\\Produtos.cs",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Models\\Produto\\Produtos.cs",
@@ -172,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Models\\Produto\\Produto.cs",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Models\\Produto\\Produto.cs",
@@ -185,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "Pedidos.cs",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Models\\Pedido\\Pedidos.cs",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Models\\Pedido\\Pedidos.cs",
@@ -198,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Models\\Pedido\\Pedido.cs",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Models\\Pedido\\Pedido.cs",
@@ -211,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Clientes.cs",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Models\\Cliente\\Clientes.cs",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Models\\Cliente\\Clientes.cs",
@@ -224,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Models\\Cliente\\Cliente.cs",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Models\\Cliente\\Cliente.cs",
@@ -237,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Views\\Produto\\Index.cshtml",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Views\\Produto\\Index.cshtml",
@@ -250,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Views\\Cliente\\Index.cshtml",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Views\\Cliente\\Index.cshtml",
@@ -263,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Views\\Shared\\_Layout.cshtml",
@@ -276,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "ProdutosController.cs",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Controllers\\ProdutosController.cs",
@@ -289,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Views\\Pedido\\Index.cshtml",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Views\\Pedido\\Index.cshtml",
@@ -302,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Views\\Home\\Index.cshtml",
@@ -315,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Program.cs",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Program.cs",
@@ -328,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\pedro.neto10\\source\\repos\\AplicacaoWebCantina\\AplicacaoWebCantina\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AplicacaoWebCantina\\Controllers\\HomeController.cs",
